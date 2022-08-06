@@ -1,0 +1,7 @@
+Itallian flag:
+https://www.crwflags.com/fotw/flags/it.html#:~:text=Translated%20from%20the%20Italian%20Constitution,triband%20vertically%20in%20equal%20dimension.%22
+
+Green (PTC 18-5642TC) = PMS 349, CMYK 100/0/100/45, RGB Hex #006221, RGB 0/98/33
+White (PTC 11-4201TC) = no PMS, CMYK 0/0/0/0, RGB Hex # FFFFFF, RGB 255/255/255
+Red (PTC 18-1660TC) = PMS 032, CMYK 0/100/100/0, RGB Hex #DF0024, RGB 223/0/36
+

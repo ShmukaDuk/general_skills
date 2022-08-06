@@ -1,0 +1,49 @@
+Adaptive {
+	Broad background knowledge
+	Ability to identify new opportunities
+	Ability to adapt knowledge to different contexts
+	Ability to apply skills in different contexts
+	Capacity to work independently
+}
+Foundation{
+	Oral communication skills (technical and on-technical audiences)
+	Written communication skills (technical and non-technical audiences)
+	Ability to develop relevant knowledge
+	Ability to develop relevant skills
+	Ability to solve problems (including demonstrated ability to show engineering methods)
+	Ability to integrate knowledge
+	Ability to think independently about problems
+	Ability to apply Work, Health & Safety knowledge
+	}
+TeamWork{
+	Working well in teams
+	Getting on well with others in the workplace
+	Working collaboratively with colleagues to complete tasks
+	Develop networks
+	Understanding different points of view (stakeholder & user perspectives)
+	Ability to interact with co-workers from different or multi-cultural backgrounds
+}
+Technical{
+	Applying professional knowledge to job tasks
+	Using technology effectively
+	Applying technical skills in the workplace
+	Maintaining professional standards
+	Applying ethical standards
+	Capacity to integrate social, cultural, environmental and sustainability considerations
+	Using research skills to gather evidence
+}
+Employability{
+	Ability to work under pressure
+	Capacity to be flexible in the workplace
+	Ability to meet deadlines
+	Understanding the nature of the business or organisation (especially governance, client and stakeholder
+	management)
+	Demonstrating leadership skills
+	Demonstrating management skills
+	Taking responsibility for personal and professional development (including demonstrating awareness of
+	career related employment opportunities, transition skills and knowledge of recruitment process)
+	Demonstrating initiative in the workplace
+	Finance and economic management
+	Information management (work in a digital world)
+
+}
